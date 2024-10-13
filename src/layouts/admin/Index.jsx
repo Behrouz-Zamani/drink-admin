@@ -1,9 +1,9 @@
+import NavBar from "./navbar/NavBar";
 
 const Index = () => {
     return (
-        <div>
-            
-        </div>
+           <NavBar/>
+  
     );
 }
 
